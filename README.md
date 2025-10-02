@@ -23,7 +23,7 @@ A simple **Java Swing application** that lets you **encrypt and decrypt files** 
 ## 📸 Output Example
 Here’s how the app works step by step:
 
-![App Output](C:\Users\manga\OneDrive\Pictures\Screenshots\Screenshot 2025-10-02 122205.png)
+![image alt](https://github.com/MangalMurmu17/EncryptionAndDecryption_java/blob/9ef5b99e9ea03c4072a7f45789e302ad1236e709/Screenshot%202025-10-02%20122205.png)
 
 1. Start the app → click **Add Image**.
 2. Enter a numeric key (e.g., `10`).
